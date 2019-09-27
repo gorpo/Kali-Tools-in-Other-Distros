@@ -1,4 +1,9 @@
 # Kali-Tools-in-Other-Distros By Gorpo Orko TCXS Project.
+
+
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+
 Script em python para instalar as tools do Kali em outros sistemas linux atraves de repositórios kali.
 Este script contem as 331 ferramentas do Kali que podem ser instaladas em qualquer distro Linux!
 
